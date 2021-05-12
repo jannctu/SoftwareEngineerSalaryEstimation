@@ -13,6 +13,8 @@ Data is based on Stackoverflow survey 2020. The data can be downloaded in the fo
 - Matplotlib 
 - Streamlit 
 
+# Data Exploration
+  ![image](img/map_of_software_developer.PNG)
 # Demo 
 
 - Estimate 
